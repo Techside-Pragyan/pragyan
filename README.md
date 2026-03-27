@@ -95,24 +95,29 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Techside-Pragyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="95%"/>
+  <img src="https://github-trophies.vercel.app/?username=Techside-Pragyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="95%"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Calendar
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Techside-Pragyan/pragyan/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/6C63FF/Techside-Pragyan" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/6C63FF/Techside-Pragyan" />
+    <img alt="Contribution Graph" src="https://ghchart.rshah.org/6C63FF/Techside-Pragyan" width="90%"/>
+  </picture>
 </div>
 
 ---
 
+## 🔝 Top Repositories
+
 <div align="center">
 
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Techside-Pragyan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+[![Pragyan](https://github-readme-stats.vercel.app/api/pin/?username=Techside-Pragyan&repo=pragyan&theme=tokyonight&hide_border=true)](https://github.com/Techside-Pragyan/pragyan)
+[![Tourix](https://github-readme-stats.vercel.app/api/pin/?username=Techside-Pragyan&repo=tourix&theme=tokyonight&hide_border=true)](https://github.com/Techside-Pragyan/tourix)
 
 </div>
 
