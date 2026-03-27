@@ -77,12 +77,12 @@ fun_fact: I believe great code is like great poetry â€” elegant and expressive â
 ## ðŸ“Š GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Techside-Pragyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=6C63FF" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Techside-Pragyan&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Techside-Pragyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=6C63FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Techside-Pragyan&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techside-Pragyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Techside-Pragyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <!-- Activity Graph -->
@@ -116,8 +116,8 @@ fun_fact: I believe great code is like great poetry â€” elegant and expressive â
 
 <div align="center">
 
-[![Pragyan](https://github-readme-stats.vercel.app/api/pin/?username=Techside-Pragyan&repo=pragyan&theme=tokyonight&hide_border=true)](https://github.com/Techside-Pragyan/pragyan)
-[![Tourix](https://github-readme-stats.vercel.app/api/pin/?username=Techside-Pragyan&repo=tourix&theme=tokyonight&hide_border=true)](https://github.com/Techside-Pragyan/tourix)
+[![Pragyan](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Techside-Pragyan&repo=pragyan&theme=tokyonight&hide_border=true)](https://github.com/Techside-Pragyan/pragyan)
+[![Tourix](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Techside-Pragyan&repo=tourix&theme=tokyonight&hide_border=true)](https://github.com/Techside-Pragyan/tourix)
 
 </div>
 
