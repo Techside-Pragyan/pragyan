@@ -16,17 +16,13 @@
 <tr>
 <td width="55%">
 
-```yaml
-name: Pragyan Paramita Moharana
-role: Computer Science & Engineering Student @ DRIEMS University
-focus:
-  - Full-Stack Web Development (MERN Stack)
-  - Artificial Intelligence & Machine Learning
-  - Cybersecurity
-passion: Bridging innovative ideas with transformative technologies
-goal: Creating efficient, scalable solutions that make a difference
-currently_learning: Advanced AI/ML techniques & Cloud Technologies
-fun_fact: I believe great code is like great poetry — elegant and expressive ✨
+```javascript
+const pragyan = {
+  Education: "BTech CSE @ DRIEMS University",
+  Passion: ["Web Development", "AI/ML", "Cybersecurity"],
+  Website: "github.com/Techside-Pragyan",
+  Focused: true
+};
 ```
 
 </td>
@@ -37,6 +33,8 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 </td>
 </tr>
 </table>
+
+A passionate Computer Science student, I strive to bridge the gap between innovative ideas and transformative technologies. My expertise includes Full-Stack Web Development (MERN Stack), Artificial Intelligence, Machine Learning, and Cybersecurity. I am focused on creating efficient, scalable solutions and constantly exploring new advancements in tech.
 
 <div align="center">
 
