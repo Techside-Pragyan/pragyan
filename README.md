@@ -103,7 +103,7 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Techside-Pragyan/Techside-Pragyan/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Techside-Pragyan/pragyan/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
