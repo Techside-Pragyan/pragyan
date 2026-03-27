@@ -21,7 +21,6 @@ const pragyan = {
       </p>
     </td>
     <td width="50%">
-      <img src="![WhatsApp Image 2026-03-27 at 11 13 38 AM](https://github.com/user-attachments/assets/4659f87b-e632-4085-8c8d-b6ec5fd764e4)
- />
+     
     </td>
   </tr>
