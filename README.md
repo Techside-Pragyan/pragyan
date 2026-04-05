@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Waving Girl -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-5611804c-7242-4e56-b60c-9b55978ca617.gif" width="150" alt="Hello Viewer!" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-5611804c-7242-4e56-b60c-9b55978ca617.gif" width="150" alt="Animated Girl Waving Hello" />
 
-<!-- Unique Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pragyan%20Paramita%20Moharana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descSize=18&descAlignY=60" width="100%"/>
+<h2>Hello! I am Pragyan Paramita Moharana</h2>
+<h4>Full-Stack Developer | AI/ML Enthusiast | Problem Solver</h4>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+CSE+Student+%40+DRIEMS+University;%F0%9F%9A%80+Building+Scalable+Web+Solutions;%F0%9F%A4%96+Exploring+AI%2FML+%26+Cybersecurity;%E2%9C%A8+Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
