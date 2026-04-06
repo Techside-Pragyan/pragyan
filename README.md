@@ -106,8 +106,10 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 ## 🎯 Currently Working On
 
 ```text
-🚀 ProjectName      ██████████░░░░   70% - Adding some awesome features
-🛠️ AnotherApp       ██████░░░░░░░░   45% - Refactoring the backend
+👩‍💻 GitHub Profile      █████████████░   95% - Perfecting analytics and widgets
+🌸 Flower Classifier    ████████████░░   90% - AI-powered image recognition
+🌴 Tourix Platform      ██████████████  100% - Full-Stack Tourism & Booking
+💄 Aura Cosmetics       ██████████████  100% - Next.js E-Commerce Application
 ```
 
 ---
