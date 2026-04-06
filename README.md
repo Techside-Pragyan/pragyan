@@ -107,9 +107,9 @@ fun_fact: I believe great code is like great poetry â€” elegant and expressive â
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/6C63FF/Techside-Pragyan" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/6C63FF/Techside-Pragyan" />
-    <img alt="Contribution Graph" src="https://ghchart.rshah.org/6C63FF/Techside-Pragyan" width="90%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techside-Pragyan/Techside-Pragyan/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techside-Pragyan/Techside-Pragyan/output/dist/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techside-Pragyan/Techside-Pragyan/output/dist/github-snake-dark.svg" width="90%"/>
   </picture>
 </div>
 
