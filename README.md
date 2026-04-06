@@ -134,7 +134,11 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 ## 📈 Contribution Calendar
 
 <div align="center">
-  <img src="https://github-contributions-api.deno.dev/Techside-Pragyan.svg?theme=github-dark" alt="Contribution Graph" width="90%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techside-Pragyan/Techside-Pragyan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techside-Pragyan/Techside-Pragyan/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techside-Pragyan/Techside-Pragyan/output/github-snake-dark.svg" width="90%"/>
+  </picture>
 </div>
 
 ---
