@@ -112,10 +112,11 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 
 ---
 
-## 💻 My Coding Stats & Activity
+## 💻 My Coding Activity & Habits
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Techside-Pragyan/Techside-Pragyan/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
 ---
 
