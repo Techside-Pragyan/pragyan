@@ -117,11 +117,7 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 
 ---
 
-## 💻 Coding Habits & Activity
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</div>
+## 💻 My Coding Activity & Habits
 
 <div align="center">
   <img width="49%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
