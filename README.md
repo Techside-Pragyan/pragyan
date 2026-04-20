@@ -73,15 +73,6 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 
 ---
 
-<div align="center">
-
-## 🚀 Visitor Statistics
-![Visitor Counter](https://komarev.com/ghpvc/?username=Techside-Pragyan&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
 ## 🎯 Currently Working On
 
 ```text
@@ -93,19 +84,23 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 
 ---
 
-## 📊 GitHub Metrics & Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Techside-Pragyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=6C63FF" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techside-Pragyan&theme=tokyonight&hide_border=true" width="49%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Techside-Pragyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=6C63FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Techside-Pragyan&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techside-Pragyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techside-Pragyan&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="49%"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techside-Pragyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
 </div>
 
 > **Note:** The language chart above only reflects non-forked repositories. My full skill set includes **Python, Java, C, C++, PHP** and more — see the Tech Stack section above.
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techside-Pragyan&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
+</div>
 
 ---
 
@@ -129,10 +124,6 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
   <img width="49%" src="./profile-summary-card-output/tokyonight/2-commits-per-language.svg" />
 </div>
 
-<!-- WakaTime Stats Placeholder (Setup secret WAKATIME_API_KEY) -->
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-
 ---
 
 ## 📐 3D Perspective History
@@ -143,7 +134,7 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 
 ---
 
-## 🐍 Snake Contribution Animation
+## 📈 Contribution Calendar
 
 <div align="center">
   <picture>
@@ -192,8 +183,9 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 </div>
 
 
-<!-- WakaTime Stats -->
+<!-- Profile Views Counter -->
 <div align="center">
-  <!-- START_SECTION:waka -->
-  <!-- END_SECTION:waka -->
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Techside-Pragyan&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
