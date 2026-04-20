@@ -73,25 +73,19 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Metrics & Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Techside-Pragyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=6C63FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Techside-Pragyan&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Techside-Pragyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=6C63FF" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techside-Pragyan&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techside-Pragyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techside-Pragyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techside-Pragyan&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="49%"/>
 </div>
 
 > **Note:** The language chart above only reflects non-forked repositories. My full skill set includes **Python, Java, C, C++, PHP** and more — see the Tech Stack section above.
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techside-Pragyan&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
-</div>
-
-
 
 ---
 
@@ -103,18 +97,11 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 
 ---
 
-## 🎯 Currently Working On
+## 💻 Coding Habits & Activity
 
-```text
-👩‍💻 GitHub Profile      ██████████████  100% - Perfected analytics and widgets
-🌸 Flower Classifier    ████████████░░   90% - AI-powered image recognition
-🌴 Tourix Platform      ██████████████  100% - Full-Stack Tourism & Booking
-💄 Aura Cosmetics       ██████████████  100% - Next.js E-Commerce Application
-```
-
----
-
-## 💻 My Coding Activity & Habits
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
 
 <div align="center">
   <img width="49%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
@@ -126,6 +113,9 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
   <img width="49%" src="./profile-summary-card-output/tokyonight/2-commits-per-language.svg" />
 </div>
 
+<!-- WakaTime Stats Placeholder (Setup secret WAKATIME_API_KEY) -->
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 ---
 
@@ -137,7 +127,7 @@ fun_fact: I believe great code is like great poetry — elegant and expressive �
 
 ---
 
-## 📈 Contribution Calendar
+## 🐍 Snake Contribution Animation
 
 <div align="center">
   <picture>
